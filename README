@@ -5,7 +5,7 @@ Tutorial series will contain more advanced stuff like adding `requestAnimationFr
 
 ## How to run
 
-Before running the project, you must get any compiled V8 like the ones found (https://github.com/social-games/CompiledV8)[here].
+Before running the project, you must get any compiled V8 like the ones found [here](https://github.com/social-games/CompiledV8).
 Then expand it in the project's `jni` folder. The folder structure must look something like:
 
 ```
