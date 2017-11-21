@@ -27,6 +27,10 @@ public class SocialGames extends Activity {
         InitializeV8();
     }
 
+    /**
+     * called from native.
+     * @param version a string containing v8 compilation version.
+     */
     public void setVersion( String version ) {
         tv.setText(version);
     }
