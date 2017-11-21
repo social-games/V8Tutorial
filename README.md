@@ -35,3 +35,5 @@ This project is intended for begginners, to get a grasp on Android project struc
 This example does not interact with javascript itself, it just creates the application and initializes V8 at a platform level.
 
 It uses compiled default snapshots which are linked along with the application.
+
+On execution, this project will print the embedded v8's version.
