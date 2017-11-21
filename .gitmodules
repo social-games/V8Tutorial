@@ -1,0 +1,3 @@
+[submodule "jni/CompiledV8"]
+	path = jni/CompiledV8
+	url = https://github.com/social-games/CompiledV8.git

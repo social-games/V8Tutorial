@@ -1,0 +1,14 @@
+.DS_Store
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+jni/armeabi-v7a
+jni/arm64-v8a
+jni/include
+jni/v8_include_src
