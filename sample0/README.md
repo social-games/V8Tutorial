@@ -2,7 +2,7 @@ V8 Tutorial is a series of project samples to get started with embedding V8 in a
 
 ## How to run
 
-Before running the project, you must get any compiled V8 like the ones found [https://github.com/social-games/CompiledV8](here).
+Before running the project, you must get any compiled V8 like the ones found [here](https://github.com/social-games/CompiledV8).
 Then expand it in the project's `jni` folder. The folder structure must look something like:
 
 ```
