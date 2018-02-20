@@ -1,11 +1,8 @@
 V8 Tutorial is a series of project samples to get started with embedding V8 in android.
 
-This project shows the most basic project structure of a V8 enabled android application.
-Tutorial series will contain more advanced stuff like adding `requestAnimationFrame`, making a webgl binding, or plugin in developer tools `inspector` support.
-
 ## How to run
 
-Before running the project, you must get any compiled V8 like the ones found (https://github.com/social-games/CompiledV8)[here].
+Before running the project, you must get any compiled V8 like the ones found [https://github.com/social-games/CompiledV8](here).
 Then expand it in the project's `jni` folder. The folder structure must look something like:
 
 ```
