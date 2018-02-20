@@ -7,8 +7,7 @@ using namespace v8;
 /**
  * Must stub in case external snapshot files are used.
  */
-namespace v8 {
-    namespace internal {
+namespace v8::internal {
         void ReadNatives() {}
 
         void DisposeNatives() {}
@@ -16,7 +15,6 @@ namespace v8 {
         void SetNativesFromFile(v8::StartupData *s) {}
 
         void SetSnapshotFromFile(v8::StartupData *s) {}
-    }
 }
 
 jint JNI_OnLoad(JavaVM* vm, void* reserved)
