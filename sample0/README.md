@@ -37,3 +37,5 @@ See how the file Android.mk references v8 library files based on the currently s
 These architectures are defined in the file app/build.gradle as two product flavours using different abi filters.
 
 `If you know how javascript works, you already know a lot about v8.`
+
+![Project folder structure](images/sample0/sample0-result.png)
