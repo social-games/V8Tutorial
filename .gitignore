@@ -13,4 +13,4 @@ sample0/jni/armeabi-v7a
 sample0/jni/arm64-v8a
 sample0/jni/include/**/*
 sample0/jni/v8_src_include/**/*
-sample0/app/.externalNativeBuild/cmake/**/*
+sample0/app/.externalNativeBuild/**/*
