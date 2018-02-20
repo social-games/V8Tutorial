@@ -40,6 +40,6 @@ These architectures are defined in the file app/build.gradle as two product flav
 
 ## Result
 
-When this project is compiled and executed, you'll get something similar to this:
+When this project is compiled and executed, you'll get something similar to this, being 6.3.xxx the V8 embedded version.
 
 ![Project folder structure](/sample0/sample0-result.png)
