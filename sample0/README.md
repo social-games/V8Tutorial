@@ -38,4 +38,4 @@ These architectures are defined in the file app/build.gradle as two product flav
 
 `If you know how javascript works, you already know a lot about v8.`
 
-![Project folder structure](images/sample0/sample0-result.png)
+![Project folder structure](/sample0/sample0-result.png)
